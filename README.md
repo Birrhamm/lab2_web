@@ -85,6 +85,6 @@ Inline CSS
 
 ![gambar1](gambar/L6.png)
 
-![gambar1](gambar/L7.png)
+![gambar1](gambar/L8.png)
 
-![gambar1](gambar/L1.png)
+![gambar1](gambar/L7.png)
