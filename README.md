@@ -17,12 +17,12 @@
 ![gambar1](gambar/Screenshot(135).png)
 
 - Menambahkan inline CSS pada dokumen html
-
-![gambar1](gambar/Screenshot(147).png)
+  
+![gambar1](gambar/Screenshot(132).png)
 
 - Hasil dari menambahkan inline CSS
-
-![gambar1](WEB-GAMBAR/WEBB6.png)
+  
+![gambar1](gambar/Screenshot(147).png)
 
 - Membuat CSS eksternal 
 
