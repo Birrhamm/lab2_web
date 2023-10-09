@@ -34,11 +34,11 @@
 
 Hasil dari membuat CSS eksternal dan menambahkan link
 
-![gambar1](WEB-GAMBAR/WEBB8.png)
+![gambar1](gambar/Screenshot(164).png)
 
 - Menambah CSS selector
 
-![gambar1](WEB-GAMBAR/WEBB10.png)
+![gambar1](gambar/Screenshot(19).png)
 
 Hasil dari menambahkan CSS selector
 
