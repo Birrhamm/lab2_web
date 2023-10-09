@@ -18,7 +18,7 @@
 
 - Menambahkan inline CSS pada dokumen html
 
-![gambar1](WEB-GAMBAR/WEBB5.png)
+![gambar1](gambar/Screenshot(147).png)
 
 - Hasil dari menambahkan inline CSS
 
