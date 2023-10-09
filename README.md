@@ -2,19 +2,19 @@
 
 - Mebuat dokumen html dengan menggunakan code yang di minta pada ecampus
 
-![gambar1](WEB-GAMBAR/WEBB1.png)
+![gambar1](gambar/Screenshot(122).png)
 
 - Hasil yang tela di buat pada code fi atas
 
-![gambar1](WEB-GAMBAR/WEBB2.png)
+![gambar1](gambar/Screenshot(130).png)
 
 - Mendeklarasikan CSS internal
 
-![gambar1](WEB-GAMBAR/WEBB3.png)
+![gambar1](gambar/Screenshot(163).png)
 
 - Hasil dari Mendeklarasikan CSS internal
 
-![gambar1](WEB-GAMBAR/WEBB4.png)
+![gambar1](gambar/Screenshot(135).png)
 
 - Menambahkan inline CSS pada dokumen html
 
