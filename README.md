@@ -18,7 +18,7 @@
 
 - Menambahkan inline CSS pada dokumen html
   
-![gambar1](gambar/Screenshot(132).png)
+![gambar1](gambar/Screenshot(138).png)
 
 - Hasil dari menambahkan inline CSS
   
@@ -26,11 +26,11 @@
 
 - Membuat CSS eksternal 
 
-![gambar1](WEB-GAMBAR/WEBB9.png)
+![gambar1](gambar/Screenshot(165).png)
 
 - Menambahkan link 
 
-![gambar1](WEB-GAMBAR/WEBB7.png)
+![gambar1](gambar/Screenshot(163).png)
 
 Hasil dari membuat CSS eksternal dan menambahkan link
 
